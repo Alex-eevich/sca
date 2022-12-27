@@ -3,7 +3,7 @@ host = '0.0.0.0'
 port = 8080
 
 [s3]
-bucket = ''
+bucket = 'https://console.cloud.yandex.ru/folders/b1gi408k1rjt7pesf8s6/storage/buckets/antonov'
 
 [redis]
 host = ''
