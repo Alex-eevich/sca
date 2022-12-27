@@ -11,4 +11,4 @@ port = 6379
 password = 'qwerty123456'
 
 [ydb]
-database = ''
+database = '/ru-central1/b1gf0nus8r3kh72bsos3/etnpu1517sff9028ejo2'
