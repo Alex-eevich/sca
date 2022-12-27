@@ -6,9 +6,9 @@ port = 8080
 bucket = 'https://console.cloud.yandex.ru/folders/b1gi408k1rjt7pesf8s6/storage/buckets/antonov'
 
 [redis]
-host = ''
+host = 'c-c9qrmi6f1lpeaij6a8k1.rw.mdb.yandexcloud.net'
 port = 6379
-password = ''
+password = 'qwerty123456'
 
 [ydb]
 database = ''
